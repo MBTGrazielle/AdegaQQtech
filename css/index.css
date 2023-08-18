@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+}
+
 .logotipo-Adega {
   margin-top: -40px;
   width: 20%;
@@ -12,7 +16,7 @@
   color: #941b50;
   font-size: 50px;
   text-align: center;
-  margin: -110px 0px 25px 0px;
+  margin: -110px 0px 50px 0px;
 }
 
 .escolha-Vinhos {
@@ -40,8 +44,6 @@ select {
   font-size: 16px;
   border: 1px solid #ccc;
   border-radius: 4px;
-  appearance: none;
-  outline: none;
 }
 
 option {
