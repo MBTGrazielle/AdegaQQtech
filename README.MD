@@ -37,7 +37,6 @@
 <img src='assets/tela-branco.png' alt='tela-branco'>
 <p>Tela para consulta de estoque do vinho Rosé com entrada 'R':</p>
 <img src='assets/tela-rose.png' alt='tela-rose'>
-<p>Tela para finalizar consulta de estoque da Adega QQTech com entrada 'F':</p>
-<img src='assets/tela-finalizar.png' alt='tela-finalizar'>
+
 <br><br>
 <a href="https://github.com/MBTGrazielle/AdegaQQtech" target="_blank"><img src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
