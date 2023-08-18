@@ -37,7 +37,6 @@ span {
 }
 
 select {
-  margin-bottom: ;
   margin-left: 10px;
   width: 20%;
   padding: 10px;
@@ -45,9 +44,20 @@ select {
   border: 1px solid #ccc;
   border-radius: 4px;
 }
+select:hover {
+  cursor: pointer;
+}
 
-option {
-  font-size: 14px;
+.finalizar-btn {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-left: 20px;
+}
+.finalizar-btn:hover {
+  border: 1px solid black;
+  cursor: pointer;
 }
 
 .escolha-Vinhos,
